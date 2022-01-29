@@ -31,7 +31,7 @@ def gcd():
             hcf=i
     print("GCD of two numbers is:",hcf)        
             
- s```
+ ```
 
 ## Output:
 ![image](https://user-images.githubusercontent.com/94228215/149759649-bf989bd8-aa5b-46d7-b4fb-65f8babbbde1.png)
